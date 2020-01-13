@@ -16,7 +16,7 @@ $ rails db:seed            # Seeds the database
 $ rails server             # Start the server
 ```
 
-## Getting All Shoes For the Sidebar (Deliverable 1)
+## Getting All Shoes For the Sidebar (Deliverable 1) [x]
 
 ```JavaScript
 #=> Example Request
@@ -65,7 +65,7 @@ The HTML of how you should render the shoes in the `#shoe-list` should look like
 <li class="list-group-item">Crocs Classic Clogs</li>
 ```
 
-## Getting One Shoe for the Main Container (Deliverable 2)
+## Getting One Shoe for the Main Container (Deliverable 2) [x]
 
 ```JavaScript
 #=> Example Request
